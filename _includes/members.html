@@ -1,0 +1,12 @@
+<ul class="members">
+{% for committee_member in site.committee_members %}
+  <li>
+    <img src="/images/{{ committee_member.headshot }}" alt="Portrait photo of {{ committee_member.name }}" width="256" height="256" />
+    <div>
+        <h3>{{ committee_member.name }} <span class="pronouns">({{ committee_member.pronouns }})</span></h3>
+        <h4>{{ committee_member.position }}</h4>
+        {{ committee_member.content | markdownify }}
+    </div>
+  </li>
+{% endfor %}
+</ul>
