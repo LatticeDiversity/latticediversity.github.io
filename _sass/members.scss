@@ -9,14 +9,32 @@ ul.members {
             margin-bottom: 0;
         }
 
-        div {
-            padding-left: 1em;
+        & > div {
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: baseline;
+
+            h3, h4, p {
+                display: block;
+            }
+            h4, p {
+                width: 100%;
+            }
+        }
+
+        img + div {
+            padding-left: 1em;
         }
     }
 }
 
 .pronouns {
     font-weight: 300;
+}
+
+.dates {
+    font-weight: 300;
+    font-variant: small-caps;
 }

@@ -8,7 +8,6 @@ The Lattice Diversity and Inclusion Committee is a standing committee charged wi
 at the Lattice conference and more broadly within our field, responding to issues of harassment and misconduct at Lattice, and
 promoting a welcoming atmosphere, diversity and inclusion in our field.
 
-## Committee Members
 {% include members.html %}
 
 ## Procedures
