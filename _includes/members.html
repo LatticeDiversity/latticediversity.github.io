@@ -10,10 +10,14 @@
   <li>
     <img src="/images/{{ committee_member.headshot }}" alt="Portrait photo of {{ committee_member.name }}" width="256" height="256" />
     <div>
-      <h3>{{ committee_member.name }}{% if committee_member.pronouns %} <span class="pronouns">({{ committee_member.pronouns }})</span>{% endif %}</h3>
-      <span class="dates">{{ committee_member.joined | date: "%Y" }}&ndash;present</span>
-      <h4>{{ committee_member.position }}</h4>
-      <span class="email"><a href="mailto:{{ committee_member.email }}">{{ committee_member.email }}</a></span>
+      <div>
+        <h3>{{ committee_member.name }}{% if committee_member.pronouns %} <span class="pronouns">({{ committee_member.pronouns }})</span>{% endif %}</h3>
+        <span class="dates">{{ committee_member.joined | date: "%Y" }}&ndash;present</span>
+      </div>
+      <div>
+        <h4>{{ committee_member.position }}</h4>
+        <span class="email"><a href="mailto:{{ committee_member.email }}">{{ committee_member.email }}</a></span>
+      </div>
       {{ committee_member.content | markdownify }}
     </div>
   </li>
@@ -29,8 +33,10 @@
   {%- if jointime < nowunix and (committee_member.left != nil and leavetime < nowunix) -%}
   <li>
     <div>
-      <h3>{{ committee_member.name }}{% if committee_member.pronouns %} <span class="pronouns">({{ committee_member.pronouns }})</span>{% endif %}</h3>
-      <span class="dates">{{ committee_member.joined | date: "%Y" }}&ndash;{{ committee_member.left | date: "%Y" }}</span>
+      <div>
+        <h3>{{ committee_member.name }}{% if committee_member.pronouns %} <span class="pronouns">({{ committee_member.pronouns }})</span>{% endif %}</h3>
+        <span class="dates">{{ committee_member.joined | date: "%Y" }}&ndash;{{ committee_member.left | date: "%Y" }}</span>
+      </div>
       <h4>{{ committee_member.position }}</h4>
     </div>
   </li>

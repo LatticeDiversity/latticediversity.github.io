@@ -10,30 +10,34 @@ ul.members {
             margin-bottom: 0;
         }
 
-        .email {
-            margin-bottom: 15px;
+        h4 {
+            font-weight: 600;
+            font-size: 15px;
         }
 
-        & > div {
+        .email {
+            margin-bottom: 0.4em;
+        }
+
+        & div {
             width: 100%;
+        }
+
+        & > div > div {
             display: flex;
             flex-direction: row;
             flex-wrap: wrap;
             justify-content: space-between;
             align-items: baseline;
-
-            h3, h4, p {
-                display: block;
-                min-width: 50%;
-            }
-
-            p {
-                width: 100%;
-            }
+            gap: 0 0.5em;
         }
 
         img + div {
             padding-left: 1em;
+        }
+
+        img {
+            margin-bottom: 1em;
         }
     }
 }
