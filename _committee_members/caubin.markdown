@@ -2,12 +2,12 @@
 name: Christopher A. Aubin
 pronouns: he/him
 position: Associate Professor at Fordham University, New York, NY
-headshot: finnstokes.webp
+headshot: placeholder.png
 email: caubin@fordham.edu
 joined: 2019-01-11
 ---
 Christopher finished his PhD at Washington University in 
-St. Louis in 2004, after which he did was a 
+St. Louis in 2004, after which he was a 
 postdoctoral researcher at Columbia University 
 and the College of William & Mary before 
 joining the faculty at Fordham University in 2010. 
