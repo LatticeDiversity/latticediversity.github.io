@@ -3,6 +3,8 @@ name: Finn M. Stokes
 pronouns: they/them
 position: Postdoctoral Researcher at Jülich Supercomputing Centre, Germany
 headshot: finnstokes.webp
+email: f.stokes@fz-juelich.de
+joined: 2022-09-15
 ---
 Finn completed their PhD at the University of Adelaide in Australia in 2018.
 They are currently employed as a postdoctoral researcher at the Jülich
