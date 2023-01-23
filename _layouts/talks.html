@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{%- assign timestamp_format = site.minima.date_format | default: "%FT%R%z" -%}
+{%- assign date_format = site.minima.date_format | default: "%b %e, %Y at %l%P GMT" -%}
+
+{%- for talk in site.talks -%}
+  {% capture talktime %}{{talk.date | date: '%s'}}{% endcapture %}
+  {%- if talktime >= nowunix -%}
+    {%- assign upcoming_talks = true -%}
+  {%- else -%}
+    {%- assign past_talks = true -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{% if upcoming_talks %}
+<h1>Upcoming Talks</h1>
+<ul class="talks">
+  {%- for talk in site.talks -%}
+    {%- capture talktime -%}{{talk.date | date: '%s'}}{%- endcapture -%}
+    {%- if talktime >= nowunix -%}
+      <li>
+        <span class="post-meta"><time datetime="{{ talk.date | date: timestamp_format }}">{{ talk.date | date: date_format }}</time></span>
+        <h3>
+          {{ talk.title | escape }}
+        </h3>
+        <h4>
+          {{ talk.speaker | escape }}
+          {% if talk.pronouns %}
+            <span class="pronouns">({{ talk.pronouns | escape }})</span>
+          {% endif %}
+          {% if talk.affiliation %}
+            <span class="affiliation"> - {{ talk.affiliation | escape }}</span>
+          {% endif %}
+        </h4>
+        {{ talk.content }}
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+{%- endif -%}
+
+{% if past_talks %}
+<h1>Past Talks</h1>
+<ul class="talks">
+  {%- for talk in site.talks reversed -%}
+    {% capture talktime %}{{talk.date | date: '%s'}}{% endcapture %}
+    {%- if talktime < nowunix -%}
+      <li>
+        <span class="post-meta"><time datetime="{{ talk.date | date: timestamp_format }}">{{ talk.date | date: date_format }}</time></span>
+        <h3>
+          {{ talk.title | escape }}
+        </h3>
+        <h4>
+          {{ talk.speaker | escape }}
+          {% if talk.pronouns %}
+            <span class="pronouns">({{ talk.pronouns | escape }})</span>
+          {% endif %}
+          {% if talk.affiliation %}
+            <span class="affiliation"> - {{ talk.affiliation | escape }}</span>
+          {% endif %}
+        </h4>
+        {{ talk.content }}
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+{%- endif -%}
