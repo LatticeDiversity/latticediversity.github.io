@@ -1,7 +1,7 @@
 ---
 title: "Fulfill students and researchers with disabilities in scientific fields: a lucid hope"
 speaker: Benoît Blossier
-affiliation: LPT Orsay
+affiliation: IJCLab Orsay
 date: 2023-02-09 15:00:00 +0000
 ---
 Our societies suggest that taking into account gender, diversity and disability is a marker of progress.
