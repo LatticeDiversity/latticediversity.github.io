@@ -24,7 +24,7 @@ layout: default
       <li>
         <span class="post-meta"><time datetime="{{ talk.date | date: timestamp_format }}">{{ talk.date | date: date_format }}</time></span>
         <h3>
-          <a href="{{ talk.url }}">{{ talk.title | escape }}</a>
+          {{ talk.title | escape }}
         </h3>
         <h4>
           {{ talk.author | escape }}
