@@ -4,3 +4,7 @@
 
 layout: page
 ---
+
+<picture>
+    <img class="main-logo" src="/images/logo_light.svg" width="256" height="256" />
+</picture>

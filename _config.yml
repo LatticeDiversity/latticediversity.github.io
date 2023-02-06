@@ -33,6 +33,10 @@ timezone: GMT
 
 # Build settings
 theme: minima
+
+minima:
+  skin: ldic
+
 plugins:
   - jekyll-feed
 
