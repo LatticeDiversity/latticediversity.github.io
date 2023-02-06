@@ -2,7 +2,7 @@
 name: Christopher A. Aubin
 pronouns: he/him
 position: Assoc. Professor at Fordham University, USA
-headshot: placeholder.png
+headshot: christopheraubin.webp
 email: caubin@fordham.edu
 joined: 2019-01-11
 ---
