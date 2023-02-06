@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lattice Diversity and Inclusion Committee
-email: your-email@example.com
+author:
+  name: Lattice Diversity and Inclusion Committee
+  email: "lattice_diversity@mit.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   The Lattice Diversity and Inclusion Committee is a standing committee
   charged with improving the intellectual and social climate at
@@ -40,6 +42,11 @@ minima:
 plugins:
   - jekyll-feed
 
+feed:
+  collections:
+    talks:
+      path: "talks.xml"
+
 header_pages:
   - talks.markdown
   - about.markdown
@@ -47,8 +54,10 @@ header_pages:
   - contact.markdown
 
 collections:
-  - committee_members
-  - talks
+  talks:
+    output: true
+  committee_members:
+    output: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

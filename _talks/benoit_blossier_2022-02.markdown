@@ -1,6 +1,6 @@
 ---
 title: "Fulfill students and researchers with disabilities in scientific fields: a lucid hope"
-speaker: Benoît Blossier
+author: Benoît Blossier
 affiliation: IJCLab Orsay
 date: 2023-02-09 15:00:00 +0000
 ---

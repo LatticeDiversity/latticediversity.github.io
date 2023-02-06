@@ -1,0 +1,33 @@
+.spotlight {
+    display: flex;
+
+    .main-logo {
+        width: 16em;
+        max-width: 35vw;
+        max-height: 35vw;
+        padding-right: 1.5em;
+    }
+
+    .talk-spotlight {
+        overflow: hidden;
+        max-height: 35vw;
+        height: 16em;
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        letter-spacing: normal;
+    }
+
+    h3 {
+        font-size: 1.3em;
+    }
+
+    .talk-date {
+        font-weight: 300;
+    }
+}
