@@ -9,6 +9,3 @@ The Lattice Diversity and Inclusion Committee is a standing committee of the Int
 This committee was formed in 2018 with ten members who are elected (add pdf - ldicproposal_v2)
 
 {% include members.html %}
-
-## Procedures
-Here we could have election procedures and charter.
