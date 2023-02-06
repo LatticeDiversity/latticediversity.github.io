@@ -1,6 +1,10 @@
 .spotlight {
     display: flex;
 
+    & + .spotlight {
+        padding-top: 1em;
+    }
+
     .main-logo {
         width: 16em;
         max-width: 35vw;
@@ -16,6 +20,7 @@
 
     h1, h2, h3 {
         margin: 0;
+        margin-bottom: 0.5em;
     }
 
     h1 {
@@ -29,5 +34,54 @@
 
     .talk-date {
         font-weight: 300;
+    }
+
+    div {
+        width: 100%;
+        flex-basis: 1;
+    }
+
+    .speaker-suggestions {
+        h3 {
+            margin: 0;
+        }
+    }
+}
+
+form label:not(:focus):not(:active) {
+    clip: rect(0 0 0 0); 
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap; 
+    width: 1px;
+}
+
+input {
+    padding:10px;
+    margin:10px 0; // add top and bottom margin
+    box-sizing: border-box;
+    border: 2px solid $lm-link-base-color;
+    border-radius: 10px;
+}
+
+input[type=text] {
+    width: 90%;
+    width: calc(100% - 1em);
+}
+
+input[type=text]:required + span::after {
+    content: ' *';
+}
+
+input[type=submit], 
+input[type=reset] {
+    width: 45%;
+    width: calc(50% - 0.75em);
+
+    & + input[type=submit], 
+    & + input[type=reset] {
+        margin-left: calc(0.5em);
     }
 }
