@@ -5,4 +5,4 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-@import "index", "header", "members", "talks";
+@import "index", "header", "members", "talks", "contact";

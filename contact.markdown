@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: contact
 title: Contact
 permalink: /contact/
 ---
 
-Here we would have detailed contact information and possibly a contact form.
+- Lattice Diversity and Inclusion Committee
+  [{{ site.author.email }}](mailto:{{ site.author.email }})
+{% include member-emails.html %}

@@ -1,0 +1,11 @@
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{%- assign timestamp_format = site.minima.date_format | default: "%FT%R%z" -%}
+{%- assign date_format = site.minima.date_format | default: "%b %e, %Y at %l%P GMT" -%}
+{% for committee_member in site.committee_members %}
+{%- capture jointime -%}{{committee_member.joined | date: '%s'}}{%- endcapture -%}
+{%- capture leavetime -%}{{committee_member.left | date: '%s'}}{%- endcapture -%}
+{% if jointime < nowunix and (committee_member.left == nil or leavetime > nowunix) %}
+- {{ committee_member.name }}
+  [{{ committee_member.email }}](mailto:{{ committee_member.email }})
+{% endif %}
+{% endfor %}
