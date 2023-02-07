@@ -19,6 +19,9 @@ presets:
         1024: 65
         128: 90
 
+    attributes:
+      img: 'class="headshot"'
+
   figure:
     formats: [png]
     widths: [256, 512, 1024]

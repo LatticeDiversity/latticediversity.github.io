@@ -1,4 +1,15 @@
-<div class="talk-spotlight">
+<script type="text/javascript">
+  document.addEventListener( "DOMContentLoaded", () => {
+    let wrapper = document.querySelector( "#talk-spotlight" );
+    console.log("dotdotdot");
+    console.log(wrapper);
+    let options = {
+      keep: ".read-more",
+    };
+    new Dotdotdot( wrapper, options );
+  });
+</script>
+<div id="talk-spotlight">
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {%- assign timestamp_format = site.minima.date_format | default: "%FT%R%z" -%}
   {%- assign date_format = site.minima.date_format | default: "%b %e, %Y at %l%P GMT" -%}
@@ -28,6 +39,7 @@
   {{ talk.content }}
     {%- endif -%}
   {%- endfor -%}
+  <a href="/talks" class="read-more">Read More</a>
   {%- else -%}
   <h1>Previous Talk</h1>
   {%- for talk in site.talks reversed -%}
@@ -45,5 +57,6 @@
   {{ talk.content }}
   {%- endif -%}
   {%- endfor -%}
+  <a href="/talks#past-talks" class="read-more">Read More</a>
   {%- endif -%}
 </div>

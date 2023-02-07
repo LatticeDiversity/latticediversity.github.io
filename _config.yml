@@ -48,8 +48,8 @@ feed:
       path: "talks.xml"
 
 header_pages:
-  - talks.markdown
   - about.markdown
+  - talks.markdown
   - survey.markdown
   - contact.markdown
 
