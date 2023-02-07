@@ -14,27 +14,34 @@ range of expectations based on similar surveys [2, 3, 4, 5, 6]."
 "There are issues with inclusivity in the community; 25-30% of respondents indicated not feel-
 ing comfortable infrequently or more often at talks, social events and even conference accommoda- tions. A significant number of respondents (about 35%) has observed or had negative experiences. The nature of these experiences was not determined in the survey."
 
-A few of the plots from the proceedings are given here.
-{
-    "name": "LDIC",
-    "short_name": "LDIC",
-    "icons": [
+A few summary plots from the proceedings are given here.
+
         {
-            "src": "/images/android-chrome-192x192.png",
+            "src": "/images/Screen Shot 2023-02-07 at 2.18.10 PM.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/images/android-chrome-512x512.png",
+            "src": "/images/Screen Shot 2023-02-07 at 2.18.38 PM.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/Screen Shot 2023-02-07 at 2.18.55 PM.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/Screen Shot 2023-02-07 at 2.19.17 PM.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/Screen Shot 2023-02-07 at 2.19.38 PM.png",
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#30753d",
-    "background_color": "#30753d"
-}
-
-
+ 
 In these proceedings they discussed following recommendations based on the results of the survey.
 "1. Formalize the diversity committee and maintain the code of conduct. Survey diversity peri- odically, updating the questionnaire based on the lessons learned from this survey and keep statistical records.
 2. Continue the “Women in Lattice” lunches, opening this event to any interested participants.
