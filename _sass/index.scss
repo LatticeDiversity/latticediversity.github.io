@@ -12,10 +12,10 @@
         padding-right: 1.5em;
     }
 
-    .talk-spotlight {
+    #talk-spotlight {
         overflow: hidden;
-        max-height: 35vw;
         height: 16em;
+        height: min(16em, 35vw);
     }
 
     h1, h2, h3 {
