@@ -1,0 +1,21 @@
+presets:
+  headshot:
+    formats: [webp, jpg]
+    widths: [128, 256, 512, 1024]
+
+    size: 16em
+
+    fallback_width: 256
+    fallback_format: jpg
+
+    dimension_attributes: true
+
+    format_quality:
+      jpg:
+        1024: 65
+        128: 100
+      png: 65
+      webp:
+        1024: 65
+        128: 90
+

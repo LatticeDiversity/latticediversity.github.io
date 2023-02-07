@@ -8,7 +8,7 @@
   {%- capture leavetime -%}{{committee_member.left | date: '%s'}}{%- endcapture -%}
   {%- if jointime < nowunix and (committee_member.left == nil or leavetime > nowunix) -%}
   <li>
-    <img src="/images/{{ committee_member.headshot }}" alt="Portrait photo of {{ committee_member.name }}" width="256" height="256" />
+    {% picture headshot images/{{ committee_member.headshot }} --alt Portrait photo of {{ committee_member.name }} %}
     <div>
       <div>
         <h3>{{ committee_member.name }}{% if committee_member.pronouns %} <span class="pronouns">({{ committee_member.pronouns }})</span>{% endif %}</h3>

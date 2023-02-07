@@ -33,12 +33,15 @@ ul.members {
             gap: 0 0.5em;
         }
 
-        img + div {
+        picture + div {
             padding-left: 1em;
         }
 
         img {
             margin-bottom: 1em;
+            width: 16em;
+            height: 16em;
+            max-width: none;
         }
     }
 }
