@@ -1,0 +1,49 @@
+<div class="talk-spotlight">
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+  {%- assign timestamp_format = site.minima.date_format | default: "%FT%R%z" -%}
+  {%- assign date_format = site.minima.date_format | default: "%b %e, %Y at %l%P GMT" -%}
+  
+  {%- assign upcoming_talks = false -%}
+  {%- for talk in site.talks -%}
+    {% capture talktime %}{{talk.date | date: '%s'}}{% endcapture %}
+    {%- if talktime >= nowunix -%}
+      {%- assign upcoming_talks = true -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {% assign first = true %}
+  {% if upcoming_talks %}
+  {%- for talk in site.talks -%}
+    {%- capture talktime -%}{{talk.date | date: '%s'}}{%- endcapture -%}
+    {%- if talktime >= nowunix and first -%}
+      {% assign first = false %}
+  <h1>Next Talk: <span class="talk-date"><time datetime="{{ talk.date | date: timestamp_format }}">{{ talk.date | date: date_format }}</time></span></h1>
+  <h3>
+    {{ talk.author | escape }}
+    {% if talk.pronouns %}
+      <span class="pronouns">({{ talk.pronouns | escape }})</span>
+    {% endif %}
+    &mdash; <a href="{{ "/talks" | relative_url }}">{{ talk.title | escape }}</a>
+  </h3>
+  {{ talk.content }}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- else -%}
+  <h1>Previous Talk</h1>
+  {%- for talk in site.talks reversed -%}
+  {%- capture talktime -%}{{talk.date | date: '%s'}}{%- endcapture -%}
+  {%- if talktime <= nowunix and first -%}
+    {% assign first = false %}
+  <span class="talk-date"><time datetime="{{ talk.date | date: timestamp_format }}">{{ talk.date | date: date_format }}</time></span>
+  <h3>
+    {{ talk.author | escape }}
+    {% if talk.pronouns %}
+      <span class="pronouns">({{ talk.pronouns | escape }})</span>
+    {% endif %}
+    &mdash; {{ talk.title | escape }}
+  </h3>
+  {{ talk.content }}
+  {%- endif -%}
+  {%- endfor -%}
+  {%- endif -%}
+</div>

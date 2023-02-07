@@ -1,0 +1,87 @@
+.spotlight {
+    display: flex;
+
+    & + .spotlight {
+        padding-top: 2em;
+    }
+
+    .main-logo {
+        width: 16em;
+        max-width: 35vw;
+        max-height: 35vw;
+        padding-right: 1.5em;
+    }
+
+    .talk-spotlight {
+        overflow: hidden;
+        max-height: 35vw;
+        height: 16em;
+    }
+
+    h1, h2, h3 {
+        margin: 0;
+        margin-bottom: 0.5em;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        letter-spacing: normal;
+    }
+
+    h3 {
+        font-size: 1.3em;
+    }
+
+    .talk-date {
+        font-weight: 300;
+    }
+
+    div {
+        width: 100%;
+        flex-basis: 1;
+    }
+
+    .speaker-suggestions {
+        h3 {
+            margin: 0;
+        }
+    }
+}
+
+form label:not(:focus):not(:active) {
+    clip: rect(0 0 0 0); 
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap; 
+    width: 1px;
+}
+
+input {
+    padding:10px;
+    margin:10px 0; // add top and bottom margin
+    box-sizing: border-box;
+    border: 2px solid $lm-link-base-color;
+    border-radius: 8px;
+}
+
+input[type=text] {
+    width: 90%;
+    width: calc(100% - 1em);
+}
+
+input[type=text]:required + span::after {
+    content: ' *';
+}
+
+input[type=submit], 
+input[type=reset] {
+    width: 45%;
+    width: calc(50% - 0.75em);
+
+    & + input[type=submit], 
+    & + input[type=reset] {
+        margin-left: calc(0.5em);
+    }
+}

@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
+<div class="spotlight">
+{% include main_logo.html %}
+{% include talk_spotlight.html %}
+</div>
+<div class="spotlight">
+<div></div>
+{% include speaker_suggestions.html %}
+</div>

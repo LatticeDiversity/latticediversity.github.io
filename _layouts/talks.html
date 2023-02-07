@@ -27,7 +27,7 @@ layout: default
           {{ talk.title | escape }}
         </h3>
         <h4>
-          {{ talk.speaker | escape }}
+          {{ talk.author | escape }}
           {% if talk.pronouns %}
             <span class="pronouns">({{ talk.pronouns | escape }})</span>
           {% endif %}
@@ -54,7 +54,7 @@ layout: default
           {{ talk.title | escape }}
         </h3>
         <h4>
-          {{ talk.speaker | escape }}
+          {{ talk.author | escape }}
           {% if talk.pronouns %}
             <span class="pronouns">({{ talk.pronouns | escape }})</span>
           {% endif %}

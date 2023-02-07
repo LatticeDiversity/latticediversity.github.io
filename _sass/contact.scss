@@ -1,0 +1,10 @@
+.contact ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+    font-size: 1.2em;
+
+    li a {
+        display: block;
+    }
+}

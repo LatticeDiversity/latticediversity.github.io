@@ -1,10 +1,21 @@
 ---
 title: "Fulfill students and researchers with disabilities in scientific fields: a lucid hope"
-speaker: Benoît Blossier
-affiliation: LPT Orsay
+author: Benoît Blossier
+affiliation: IJCLab Orsay
 date: 2023-02-09 15:00:00 +0000
 ---
-Our societies suggest that taking into account gender, diversity and disability is a marker of progress.
+Author bio: Benoît Blossier has obtained his PhD degree in 2006 at LPT
+Orsay. After a 2-year postdoctoral fellowship at DESY Zeuthen,
+he came back in 2009 to LPT Orsay as a CNRS staff. His
+research topics are lattice QCD and flavour physics
+phenomenology, with more specific interests in heavy
+quark physics and properties of hadronic excited states.
+He is also involved in French local and national activities
+in favor of inclusive education and research systems.
+
+
+
+Talk abstract: Our societies suggest that taking into account gender, diversity and disability is a marker of progress.
 Conversely, they are much less tolerant of discriminatory elements that would be explicit, of course,
 but also implicit: the latter rejection is conceptual, at least. In Western countries that trend started
 in the 70s. As far as people with disabilities are concerned, a milestone has been the vote of a
