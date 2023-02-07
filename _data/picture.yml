@@ -3,7 +3,7 @@ presets:
     formats: [webp, jpg]
     widths: [128, 256, 512, 1024]
 
-    size: 16em
+    size: min(16em, 50vw)
 
     fallback_width: 256
     fallback_format: jpg
@@ -19,3 +19,17 @@ presets:
         1024: 65
         128: 90
 
+  figure:
+    formats: [png]
+    widths: [256, 512, 1024]
+
+    size: min(32em, 100vw)
+
+    fallback_width: 512
+    fallback_format: png
+
+    link_source: true
+    dimension_attributes: true
+
+    attributes:
+      img: 'class="figure"'
