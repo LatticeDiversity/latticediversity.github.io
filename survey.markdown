@@ -15,6 +15,24 @@ range of expectations based on similar surveys [2, 3, 4, 5, 6]."
 ing comfortable infrequently or more often at talks, social events and even conference accommoda- tions. A significant number of respondents (about 35%) has observed or had negative experiences. The nature of these experiences was not determined in the survey."
 
 A few of the plots from the proceedings are given here.
+{
+    "name": "LDIC",
+    "short_name": "LDIC",
+    "icons": [
+        {
+            "src": "/images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#30753d",
+    "background_color": "#30753d"
+}
 
 
 In these proceedings they discussed following recommendations based on the results of the survey.
