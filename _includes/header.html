@@ -6,8 +6,8 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       <picture>
-        <source type="image/svg+xml" srcset="/images/logo_dark.svg">
-        <img class="title-logo" src="/images/logo_dark.png" width="54px" height="54px" viewBox="0 0 54 54" preserveAspectRatio="xMinYMin meet" />
+        <source type="image/svg+xml" srcset="{{ '/images/logo_dark.svg' | relative_url }}">
+        <img class="title-logo" src="{{ '/images/logo_dark.png' | relative_url }}" width="54px" height="54px" viewBox="0 0 54 54" preserveAspectRatio="xMinYMin meet" />
       </picture>
       {{ site.title | escape }}
     </a>
