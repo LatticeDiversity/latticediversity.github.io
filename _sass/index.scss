@@ -1,5 +1,11 @@
 .spotlight {
     display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    @media(min-width: 512px) {
+        flex-direction: row;
+    }
 
     & + .spotlight {
         padding-top: 2em;
@@ -9,6 +15,11 @@
         width: 16em;
         max-width: 35vw;
         max-height: 35vw;
+        padding-left: 1.5em;
+    }
+
+    .headshot {
+        max-width: 35vw;
         padding-right: 1.5em;
     }
 
@@ -38,7 +49,6 @@
 
     div {
         width: 100%;
-        flex-basis: 1;
     }
 
     .speaker-suggestions {
