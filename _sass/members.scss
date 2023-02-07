@@ -4,7 +4,14 @@ ul.members {
 
     li {
         display: flex;
-        margin-bottom: 1em;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 3em;
+
+        @media(min-width: 512px) {
+            flex-direction: row;
+            margin-bottom: 1em;
+        }
 
         h3, h4 {
             margin-bottom: 0;
@@ -42,7 +49,7 @@ ul.members {
 img.headshot {
     margin-bottom: 1em;
     width: 16em;
-    max-width: 50vw;
+    max-width: 35vw;
     height: auto;
 }
 

@@ -5,6 +5,10 @@
 
     @media(min-width: 512px) {
         flex-direction: row;
+
+        #talk-spotlight {
+            height: min(16em, 35vw);
+        }
     }
 
     & + .spotlight {
@@ -19,14 +23,12 @@
     }
 
     .headshot {
-        max-width: 35vw;
         padding-right: 1.5em;
     }
 
     #talk-spotlight {
         overflow: hidden;
         height: 16em;
-        height: min(16em, 35vw);
     }
 
     h1, h2, h3 {
