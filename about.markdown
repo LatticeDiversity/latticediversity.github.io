@@ -29,3 +29,5 @@ constraints:
   - Minimum of 2 members from each from the 3 geographic regions (Europe and the Mediterranean; the Americas; Asia/Oceania),
   - Minimum of 1 member each at the rank of Assistant Professor or equivalent, postdoc level, and  graduate student level,
   - At least 1 member of an underrepresented ethnic group (non-white/caucasian).
+
+{% include members.html %}
