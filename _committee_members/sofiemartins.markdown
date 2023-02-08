@@ -1,7 +1,7 @@
 ---
 name: Sofie Martins
 pronouns: she/her
-position: PhD student at University of Southern Denmark
+position: PhD student at Uni. of Southern Denmark
 headshot: sofiemartins.webp
 email: martinss@imada.sdu.dk
 joined: 2022-09-15
