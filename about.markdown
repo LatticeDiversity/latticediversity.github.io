@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="text-align: justify"> 
 The Lattice Diversity and Inclusion Committee (LDIC) is a standing committee of the
 International Symposium of Lattice Field Theory series charged with improving the
 intellectual and social climate at the Lattice conference and more broadly within our
@@ -26,13 +25,7 @@ community, maintaining records of these incidents.
 This committee was formed in 2018 with ten members who are representative of the
 field. Whenever possible, the committee membership shall satisfy the following
 constraints:
-  </div>
-  <div style="text-align: justify">
-  - Minimum of 3 male and 3 female members,</div>
-  <div style="text-align: justify">
-  - Minimum of 2 members from each from the 3 geographic regions (Europe and the Mediterranean; the Americas; Asia/Oceania),</div>
-  <div style="text-align: justify">
-  - Minimum of 1 member each at the rank of Assistant Professor or equivalent, postdoc level, and  graduate student level,</div>
-  <div style="text-align: justify">
-  - At least 1 member of an underrepresented ethnic group (non-white/caucasian).</div>
-
+  - Minimum of 3 male and 3 female members,
+  - Minimum of 2 members from each from the 3 geographic regions (Europe and the Mediterranean; the Americas; Asia/Oceania),
+  - Minimum of 1 member each at the rank of Assistant Professor or equivalent, postdoc level, and  graduate student level,
+  - At least 1 member of an underrepresented ethnic group (non-white/caucasian).

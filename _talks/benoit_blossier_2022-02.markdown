@@ -4,26 +4,28 @@ author: Benoît Blossier
 affiliation: IJCLab Orsay
 date: 2023-02-09 15:00:00 +0000
 ---
-<div style="text-align: justify">Author bio: Benoît Blossier has obtained his PhD degree in 2006 at LPT
+Benoît Blossier has obtained his PhD degree in 2006 at LPT
 Orsay. After a 2-year postdoctoral fellowship at DESY Zeuthen,
 he came back in 2009 to LPT Orsay as a CNRS staff. His
 research topics are lattice QCD and flavour physics
 phenomenology, with more specific interests in heavy
 quark physics and properties of hadronic excited states.
 He is also involved in French local and national activities
-in favor of inclusive education and research systems.</div>
+in favor of inclusive education and research systems.
 
 
 
-<div style="text-align: justify">Talk abstract: Our societies suggest that taking into account gender, diversity and disability is a marker of progress. Conversely, they are much less tolerant of discriminatory elements that would be explicit, of course,
+### Talk abstract: 
+  
+Our societies suggest that taking into account gender, diversity and disability is a marker of progress. Conversely, they are much less tolerant of discriminatory elements that would be explicit, of course,
 but also implicit: the latter rejection is conceptual, at least. In Western countries that trend started
 in the 70s. As far as people with disabilities are concerned, a milestone has been the vote of a
 convention to guarantee their rights by the United Nations in 2006. The academic field, including
-science, follows the same trend.</div>
+science, follows the same trend.
 
-<div style="text-align: justify">In my presentation I will discuss what favors the inclusion of students with disabilities from the legislation 
+In my presentation I will discuss what favors the inclusion of students with disabilities from the legislation 
 and from the universities themselves. Making suitable work environment for researchers with disabilities 
 all along their career is a subject still in progress. The very weak number of concerned people explains 
 why one is collecting and sharing individual experiences, which is a crucial phase of the process. 
 Sometimes they lead to technical-like recommendations that are easy to implement. I will emphasize a 
-couple of them that can be applied to the specific research domain of lattice field theory.</div>
+couple of them that can be applied to the specific research domain of lattice field theory.
