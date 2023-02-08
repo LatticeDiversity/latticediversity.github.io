@@ -58,7 +58,7 @@ survey the progress made. We ask that any suggestions for improvement are forwar
 
 
 
-**2021:**
+<div style="text-align: justify">**2021:**</div>
 
 During the virtual International Lattice Symposium in 2021, a report on the Lattice Diversity and Inclusion Servey was presented by the LDIC in a poster [[7](#references)].
 
