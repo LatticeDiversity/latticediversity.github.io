@@ -56,6 +56,10 @@ The IAC has approved our proposal to form a standing Diversity and Inclusivity C
 will update the Code of Conduct, promote diversity and inclusivity in the community and periodically
 survey the progress made. We ask that any suggestions for improvement are forwarded to the members of this Committee."</div>
 
+**2021:**
+
+During the virtual International Lattice Symposium in 2021, a report on the Lattice Diversity and Inclusion Servey was presented by the LDIC in a poster [[7](#references)].
+
 ### References:
  1. <div style="text-align: justify">C. Aubin, G. Bali, L. Del Debbio, W. Detmold, V. Gülpers, S. Hollitt, H.-W. Lin, L. Liu,
     S. M. Ryan, Report on the 2019 Lattice Diversity and Inclusivity Survey, PoS LATTICE2019
@@ -66,3 +70,4 @@ survey the progress made. We ask that any suggestions for improvement are forwar
  4. <div style="text-align: justify">B. Beckford, Strategies to improve diversity and inclusion in physics, Talk given at the XXXIX International Conference on High Energy Physics (ICHEP 2018) (2018).</div>
  5. <div style="text-align: justify">S. Yacoob, Diversity & Inclusion, Talk given at the XXXIX International Conference on High Energy Physics (ICHEP 2018) (2018).</div>
  6. <div style="text-align: justify">L. M. Aycock, Z. Hazari, E. Brewe, K. B. H. Clancy, T. Hodapp, and R. M. Goertzen, Sexual harassment reported by undergraduate female physicists, Phys. Rev. Phys. Educ. Res. 15 (Apr, 2019) 010121.</div>
+ 7. C. Aubin, G. Bali, L. Del Debbio, W. Detmold, V. Guelpers, S. Hollitt, H.-W. Lin, L. Liu, S. Ryan, Report on the 2021 Lattice Diversity and Inclusion Survey, [https://indico.cern.ch/event/1006302/contributions/4461232/attachments/2286341/3886003/LDIC_Poster_2021.pdf].
