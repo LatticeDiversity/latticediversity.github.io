@@ -48,9 +48,14 @@ ul.members {
 
 img.headshot {
     margin-bottom: 1em;
-    width: 16em;
-    max-width: 35vw;
+    width: 12em;
+    max-width: 100%;
     height: auto;
+
+    @media(min-width: 512px) {
+        width: 16em;
+        max-width: 35vw;
+    }
 }
 
 .pronouns {
