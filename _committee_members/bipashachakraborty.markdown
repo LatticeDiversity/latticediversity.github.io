@@ -1,7 +1,7 @@
 ---
 name: Bipasha Chakraborty
 pronouns: she/her
-position: Lecturer, University of Southampton, UK
+position: Lecturer at Uni. of Southampton, UK
 headshot: bipashachakraborty.webp
 email: B.Chakraborty@soton.ac.uk
 joined: 2022-10-01
