@@ -56,6 +56,8 @@ The IAC has approved our proposal to form a standing Diversity and Inclusivity C
 will update the Code of Conduct, promote diversity and inclusivity in the community and periodically
 survey the progress made. We ask that any suggestions for improvement are forwarded to the members of this Committee."</div>
 
+
+
 **2021:**
 
 During the virtual International Lattice Symposium in 2021, a report on the Lattice Diversity and Inclusion Servey was presented by the LDIC in a poster [[7](#references)].
