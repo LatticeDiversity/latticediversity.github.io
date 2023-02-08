@@ -103,3 +103,9 @@ input[type=reset] {
     max-width: 100%;
     height: auto;
 }
+
+@media (min-width: 44em) {
+    p, li {
+        text-align: justify;
+    }
+}
