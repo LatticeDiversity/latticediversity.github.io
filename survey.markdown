@@ -9,7 +9,7 @@ permalink: /surveys/
 Symposium of Lattice Field Theory 2019 to assess diversity and inclusivity in
 the Lattice community. The results were presented in the conference poster session and in the following proceedings [[1](#references)]. We provide some exerpts directly from [the proceedings](https://arxiv.org/abs/1910.06800v1) to summarise the outcomes.</div>
 
-<div style="text-align: justify">"There were 174 responses to the survey, many of which provided very thoughtful
+<div style="text-align: justify">"*There were 174 responses to the survey, many of which provided very thoughtful
 input. Half of the responses came from Europe, 1/3 from the US and the remaining
 1/6 from Asia/Oceania/Africa. We find that the field is not particularly diverse
 and is (unsurprisingly) dominated by Caucasian/white heterosexual males. The
@@ -18,13 +18,13 @@ identified as gender fluid/non-binary. The percentage of female respondents
 is consistent with the average rate of participation at recent lattice conferences.
 The rate of transgender identification was 2%. The rate of respondents identifying
 as gay (4%) is within the range of expectations based on similar surveys
-[[2](#references), [3](#references), [4](#references), [5](#references), [6](#references)]."</div>
+[[2](#references), [3](#references), [4](#references), [5](#references), [6](#references)].*"</div>
 
-<div style="text-align: justify">"There are issues with inclusivity in the community; 25--30% of respondents
+<div style="text-align: justify">"*There are issues with inclusivity in the community; 25--30% of respondents
 indicated not feeling comfortable infrequently or more often at talks, social
 events and even conference accommodations. A significant number of respondents
 (about 35%) has observed or had negative experiences. The nature of these
-experiences was not determined in the survey."</div>
+experiences was not determined in the survey.*"</div>
 
 A few summary plots from the proceedings are given here.
 
@@ -39,7 +39,7 @@ A few summary plots from the proceedings are given here.
 {% picture figure /images/survey_fig_13.png %}
 
 the following recommendations were made based on the results of the survey.
-  1. <div style="text-align: justify">Formalize the diversity committee and maintain the code of conduct. Survey diversity periodically, updating the questionnaire based on the lessons learned from this survey and keep statistical records.</div>
+  *1. <div style="text-align: justify">Formalize the diversity committee and maintain the code of conduct. Survey diversity periodically, updating the questionnaire based on the lessons learned from this survey and keep statistical records.</div>
   2. <div style="text-align: justify">Continue the “Women in Lattice” lunches, opening this event to any interested participants.</div>
   3. <div style="text-align: justify">Regularly hold a plenary on the topic of diversity and inclusivity.</div>
   4. <div style="text-align: justify">Further increase the level of diversity in plenary talks and session chairs (not just monitoring the gender balance).</div>
@@ -47,18 +47,18 @@ the following recommendations were made based on the results of the survey.
   6. <div style="text-align: justify">Foster mentoring of junior colleagues. Identify senior physicists to meet with a group of younger scientists for career discussions.</div>
   7. <div style="text-align: justify">Attempt to promote international mixing between participants at different career stages.</div>
   8. <div style="text-align: justify">Establish a clear mechanism for reporting and responding to incidents of exclusion and harassment.</div>
-  9. <div style="text-align: justify">Develop an informal practical guide for future local organizing committees, related to diversity and inclusivity, to help ensure a positive atmosphere for all participants. This should be updated and passed on from year to year, along with the lattice conference manual.</div>
+  9. <div style="text-align: justify">Develop an informal practical guide for future local organizing committees, related to diversity and inclusivity, to help ensure a positive atmosphere for all participants. This should be updated and passed on from year to year, along with the lattice conference manual.*</div>
 
-<div style="text-align: justify">The proceedings concluded - "As discussed above, in general the community is amenable to programs such as
+<div style="text-align: justify">The proceedings concluded - "*As discussed above, in general the community is amenable to programs such as
 this committee and other ways to improve diversity in the field. Steps should be taken in order to
 (as much as possible) improve inclusivity for all participants at all conferences.
 The IAC has approved our proposal to form a standing Diversity and Inclusivity Committee. This Committee
 will update the Code of Conduct, promote diversity and inclusivity in the community and periodically
-survey the progress made. We ask that any suggestions for improvement are forwarded to the members of this Committee."</div>
+survey the progress made. We ask that any suggestions for improvement are forwarded to the members of this Committee.*"</div>
 
 
 
-<div style="text-align: justify">**2021:**</div>
+**2021:**
 
 During the virtual International Lattice Symposium in 2021, a report on the Lattice Diversity and Inclusion Servey was presented by the LDIC in a poster [[7](#references)].
 
