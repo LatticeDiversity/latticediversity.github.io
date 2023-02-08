@@ -26,8 +26,11 @@ community, maintaining records of these incidents.
 This committee was formed in 2018 with ten members who are representative of the
 field. Whenever possible, the committee membership shall satisfy the following
 constraints:
+  </div>
   - Minimum of 3 male and 3 female members,
-  - Minimum of 2 members from each from the 3 geographic regions (Europe and the Mediterranean; the Americas; Asia/Oceania),
-  - Minimum of 1 member each at the rank of Assistant Professor or equivalent, postdoc level, and  graduate student level.
+  <div style="text-align: justify">
+  - Minimum of 2 members from each from the 3 geographic regions (Europe and the Mediterranean; the Americas; Asia/Oceania),</div>
+  <div style="text-align: justify">
+  - Minimum of 1 member each at the rank of Assistant Professor or equivalent, postdoc level, and  graduate student level,</div>
   - At least 1 member of an underrepresented ethnic group (non-white/caucasian).
-</div>
+
