@@ -4,7 +4,9 @@ author: Benoît Blossier
 affiliation: IJCLab Orsay
 date: 2023-02-09 15:00:00 +0000
 ---
-<div style="text-align: justify">**Author bio**: Benoît Blossier has obtained his PhD degree in 2006 at LPT
+#<div style="text-align: justify">Author bio: 
+
+Benoît Blossier has obtained his PhD degree in 2006 at LPT
 Orsay. After a 2-year postdoctoral fellowship at DESY Zeuthen,
 he came back in 2009 to LPT Orsay as a CNRS staff. His
 research topics are lattice QCD and flavour physics
@@ -15,7 +17,9 @@ in favor of inclusive education and research systems.</div>
 
 
 
-<div style="text-align: justify"> **Talk abstract**: Our societies suggest that taking into account gender, diversity and disability is a marker of progress. Conversely, they are much less tolerant of discriminatory elements that would be explicit, of course,
+##<div style="text-align: justify"> Talk abstract: 
+  
+Our societies suggest that taking into account gender, diversity and disability is a marker of progress. Conversely, they are much less tolerant of discriminatory elements that would be explicit, of course,
 but also implicit: the latter rejection is conceptual, at least. In Western countries that trend started
 in the 70s. As far as people with disabilities are concerned, a milestone has been the vote of a
 convention to guarantee their rights by the United Nations in 2006. The academic field, including
