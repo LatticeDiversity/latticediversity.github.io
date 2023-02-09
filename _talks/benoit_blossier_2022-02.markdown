@@ -29,3 +29,9 @@ all along their career is a subject still in progress. The very weak number of c
 why one is collecting and sharing individual experiences, which is a crucial phase of the process. 
 Sometimes they lead to technical-like recommendations that are easy to implement. I will emphasize a 
 couple of them that can be applied to the specific research domain of lattice field theory.
+
+### Zoom details:
+ 
+https://mit.zoom.us/j/95539291515?pwd=YkpSUmlUak0yWFBsSlZZckY2TStiUT09  
+
+You can also join using the meeting id: 955 3929 1515, and password: ZoomLatt
