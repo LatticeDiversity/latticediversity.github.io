@@ -34,8 +34,4 @@ couple of them that can be applied to the specific research domain of lattice fi
  
 https://mit.zoom.us/j/95539291515?pwd=YkpSUmlUak0yWFBsSlZZckY2TStiUT09  
 
-You can also join using the meeting id and password:
-
-Meeting ID: 955 3929 1515
-
-Password: ZoomLatt
+You can also join using the meeting id: 955 3929 1515, and password: ZoomLatt
