@@ -1,0 +1,13 @@
+{%- if talk.slides or talk.recording or talk.transcript -%}
+<p>
+{%- capture links -%}
+{% if talk.slides %}| {{talk.slides}},Slides{% endif %}
+{% if talk.recording %}| {{talk.recording}},Recording{% endif %}
+{% if talk.transcript %}| {{talk.transcript}},Transcript{% endif %}
+{%- endcapture -%}
+{%- assign rows = links | remove_first: '|' | split: '|' -%}
+{% for row in rows %}
+{%- assign link = row | split: ',' | first -%}
+{%- assign label = row | split: ',' | last -%}
+<a href="{{link}}">{{label}}</a>{% unless forloop.last %}| {% endunless %}{% endfor %}</p>
+{% endif %}

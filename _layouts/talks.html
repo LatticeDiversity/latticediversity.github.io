@@ -35,7 +35,13 @@ layout: default
             <span class="affiliation"> &mdash; {{ talk.affiliation | escape }}</span>
           {% endif %}
         </h4>
+        {% include talk_links.html talk=talk %}
         {{ talk.content }}
+        {% if talk.zoom-link %}
+        <h3>Zoom details:</h3>
+        <p><a href={{ talk.zoom-link }}>{{ talk.zoom-link }}</a></p>
+        <p>You can also join using the meeting id: {{ talk.meeting-id }}, and password: {{ talk.password }}</p>
+        {% endif %}
       </li>
     {%- endif -%}
   {%- endfor -%}
@@ -62,6 +68,7 @@ layout: default
             <span class="affiliation"> &mdash; {{ talk.affiliation | escape }}</span>
           {% endif %}
         </h4>
+        {% include talk_links.html talk=talk %}
         {{ talk.content }}
       </li>
     {%- endif -%}
