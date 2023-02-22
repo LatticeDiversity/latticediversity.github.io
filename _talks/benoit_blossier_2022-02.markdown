@@ -3,6 +3,12 @@ title: "Fulfill students and researchers with disabilities in scientific fields:
 author: Benoît Blossier
 affiliation: IJCLab Orsay
 date: 2023-02-09 15:00:00 +0000
+meeting-id: 955 3929 1515
+password: ZoomLatt
+zoom-link: https://mit.zoom.us/j/95539291515?pwd=YkpSUmlUak0yWFBsSlZZckY2TStiUT09
+slides: https://github.com/LatticeDiversity/latticediversity.github.io/releases/download/2023-02-09/benoit_blossier_slides.pdf
+recording: https://github.com/LatticeDiversity/latticediversity.github.io/releases/download/2023-02-09/benoit_blossier_recorded_talk.mp4
+transcript: https://github.com/LatticeDiversity/latticediversity.github.io/releases/download/2023-02-09/benoit_blossier_transcript.vtt
 ---
 Benoît Blossier has obtained his PhD degree in 2006 at LPT
 Orsay. After a 2-year postdoctoral fellowship at DESY Zeuthen,
@@ -29,9 +35,3 @@ all along their career is a subject still in progress. The very weak number of c
 why one is collecting and sharing individual experiences, which is a crucial phase of the process. 
 Sometimes they lead to technical-like recommendations that are easy to implement. I will emphasize a 
 couple of them that can be applied to the specific research domain of lattice field theory.
-
-### Zoom details:
- 
-https://mit.zoom.us/j/95539291515?pwd=YkpSUmlUak0yWFBsSlZZckY2TStiUT09  
-
-You can also join using the meeting id: 955 3929 1515, and password: ZoomLatt

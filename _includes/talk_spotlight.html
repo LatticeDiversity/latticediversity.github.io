@@ -52,6 +52,7 @@
     {% endif %}
     &mdash; {{ talk.title | escape }}
   </h3>
+  {% include talk_links.html talk=talk %}
   {{ talk.content }}
   {%- endif -%}
   {%- endfor -%}
