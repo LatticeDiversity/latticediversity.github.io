@@ -1,7 +1,7 @@
 ---
 name: Finn M. Stokes
 pronouns: they/them
-position: Postdoc at FZ Jülich, Germany
+position: Research Fellow at UofA, Australia
 headshot: finnstokes.webp
 email: f.stokes@fz-juelich.de
 joined: 2022-09-15

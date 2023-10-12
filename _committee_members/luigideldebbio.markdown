@@ -5,6 +5,7 @@ position: Professor at Uni. of Edinburgh, Scotland
 headshot: luigideldebbio.webp
 email: luigi.del.debbio@ed.ac.uk
 joined: 2019-01-11
+left: 2023-08-13
 ---
 Luigi Del Debbio is Professor of Theoretical Physics at the University of Edinburgh. He graduated
 from the Scuola Normale  Superiore in Pisa, and held research positions in the UK, France, and

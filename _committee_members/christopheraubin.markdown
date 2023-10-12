@@ -5,6 +5,7 @@ position: Assoc. Prof. at Fordham University, USA
 headshot: christopheraubin.webp
 email: caubin@fordham.edu
 joined: 2019-01-11
+left: 2023-08-13
 ---
 Christopher finished his PhD at Washington University in 
 St. Louis in 2004, after which he was a 
