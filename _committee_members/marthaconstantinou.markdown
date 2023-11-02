@@ -1,7 +1,7 @@
 ---
 name: Martha Constantinou
 pronouns: she/her
-position: Associate Professor at Temple University, USA
+position: Assoc. Prof. at Temple University, USA
 email: marthac@temple.edu
 headshot: marthaconstantinou.webp
 joined: 2023-08-13
