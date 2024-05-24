@@ -1,7 +1,7 @@
 ---
 name: Antonin Portelli
 pronouns: he/him
-position: Professor at the University of Edinburgh
+position: Professor at Uni. of Edinburgh, UK
 email: antonin.portelli@ed.ac.uk
 headshot: antoninportelli.webp
 joined: 2023-08-13
