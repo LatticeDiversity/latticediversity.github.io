@@ -66,3 +66,11 @@ img.headshot {
     font-weight: 300;
     font-variant: small-caps;
 }
+
+ol ol {
+    list-style: lower-alpha;
+}
+
+li > p + ol {
+    margin-bottom: $spacing-unit * .5;
+}
