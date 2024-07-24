@@ -1,7 +1,7 @@
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {%- assign timestamp_format = site.minima.date_format | default: "%FT%R%z" -%}
 {%- assign date_format = site.minima.date_format | default: "%b %e, %Y at %l%P GMT" -%}
-<h2>Current Committee Members</h2>
+<h2 id="current-committee-members">Current Committee Members</h2>
 <ul class="members">
 {% for committee_member in site.committee_members %}
   {%- capture jointime -%}{{committee_member.joined | date: '%s'}}{%- endcapture -%}
@@ -25,7 +25,7 @@
 {% endfor %}
 </ul>
 
-<h2>Past Committee Members</h2>
+<h2 id="past-committee-members">Past Committee Members</h2>
 <ul class="members">
 {% for committee_member in site.committee_members %}
   {%- capture jointime -%}{{committee_member.joined | date: '%s'}}{%- endcapture -%}
