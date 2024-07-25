@@ -1,5 +1,6 @@
 ---
 name: Antonin Portelli
+role: Co-chair
 pronouns: he/him
 position: Professor at Uni. of Edinburgh, UK
 email: antonin.portelli@ed.ac.uk

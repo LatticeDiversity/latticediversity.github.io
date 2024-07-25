@@ -1,5 +1,6 @@
 ---
 name: Bipasha Chakraborty
+role: Chair
 pronouns: she/her
 position: Lecturer at Uni. of Southampton, UK
 headshot: bipashachakraborty.webp

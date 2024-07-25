@@ -12,7 +12,7 @@
     <div>
       <div>
         <h3>{{ committee_member.name }}{% if committee_member.pronouns %} <span class="pronouns">({{ committee_member.pronouns }})</span>{% endif %}</h3>
-        <span class="dates">{{ committee_member.joined | date: "%Y" }}&ndash;present</span>
+        <span class="dates">{% if committee_member.role %}{{ committee_member.role | downcase }} | {% endif %}{{ committee_member.joined | date: "%Y" }}&ndash;now</span>
       </div>
       <div>
         <h4>{{ committee_member.position }}</h4>
