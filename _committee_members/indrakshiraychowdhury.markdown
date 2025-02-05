@@ -1,7 +1,7 @@
 ---
 name: Indrakshi Raychowdhury
 pronouns: she/her
-position: Assist. Prof. at BITS-Pilani, India
+position: Assist. Prof. at BITS-P., India
 headshot: indrakshiraychowdhury.webp
 email: indrakshir@goa.bits-pilani.ac.in
 joined: 2023-08-13
