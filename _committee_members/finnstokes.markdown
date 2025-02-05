@@ -1,7 +1,7 @@
 ---
 name: Finn M. Stokes
 pronouns: they/them
-position: Research Fellow at UofA, Australia
+position: Postdoc at UofA, Australia
 headshot: finnstokes.webp
 email: finn.stokes@adelaide.edu.au
 joined: 2022-09-15
