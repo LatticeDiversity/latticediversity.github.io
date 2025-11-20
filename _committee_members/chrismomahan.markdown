@@ -6,7 +6,7 @@ headshot: chrismonahan.webp
 email: cjmonahan@coloradocollege.edu
 joined: 2025-10-20
 ---
-Chris is a tenure-track faculty member at Colorado College whose work is deeply
+Chris is currently an assistant professor at Colorado College whose work is deeply
 rooted in anti-racism, diversity, equity, and inclusion. He has led and
 contributed to numerous ADEI initiatives across multiple institutions, including
 co-founding the Mentoring for Careers in Physics program at William & Mary,
