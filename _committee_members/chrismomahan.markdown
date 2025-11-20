@@ -2,7 +2,7 @@
 name: Chris Monahan
 pronouns: he/him
 position: Assist. Prof. at Colorado College, USA
-headshot: android-chrome-512x512.png
+headshot: chrismonahan.webp
 email: cjmonahan@coloradocollege.edu
 joined: 2025-10-20
 ---

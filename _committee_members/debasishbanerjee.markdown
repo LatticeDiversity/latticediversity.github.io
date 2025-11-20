@@ -2,7 +2,7 @@
 name: Debasish Banerjee
 pronouns: he/him
 position: Assoc. Prof. at Uni. Southampton, UK
-headshot: android-chrome-512x512.png
+headshot: debasishbanerjee.webp
 email: D.Banerjee@soton.ac.uk
 joined: 2025-10-20
 ---

@@ -2,7 +2,7 @@
 name: Bhavna Prasad
 pronouns: she/her
 position: PhD Student at the Cyprus Institute, Cyprus
-headshot: android-chrome-512x512.png
+headshot: bhavnaprasad.webp
 email: b.prasad@cyi.ac.cy
 joined: 2025-10-20
 ---
