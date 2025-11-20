@@ -6,7 +6,7 @@ headshot: benjaminchoi.webp
 email: benchoi@het.ph.tsukuba.ac.jp
 joined: 2025-10-20
 ---
-Benjamin is a postdoctoral researcher at the Center for Computational Sciences,
+Benjamin is a postdoc at the Center for Computational Sciences,
 University of Tsukuba, Japan. He completed his master’s and Ph.D. degrees at the
 University of Tsukuba and Seoul National University, respectively. Born with
 congenital hearing loss, he has worn hearing aids since childhood and
