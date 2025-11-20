@@ -6,7 +6,7 @@ headshot: mariannasorba.webp
 email: marianna.sorba@hotmail.it
 joined: 2025-10-20
 ---
-Marianna is a post-doctoral researcher at ETH Zurich. As a woman in physics and
+Marianna is a postdoc at ETH Zurich. As a woman in physics and
 a young mother, she has spent much of her academic career within minority groups
 in the scientific community, experiences that motivate her commitment to
 building more welcoming and supportive environments. She previously volunteered
