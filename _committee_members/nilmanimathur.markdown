@@ -5,6 +5,7 @@ position: Professor at TIFR, India
 headshot: nilmanimathur.webp
 email: nilmani@theory.tifr.res.in
 joined: 2022-09-15
+left: 2025-11-08
 ---
 Nilmani Mathur is a professor of Physics in the Department of Theoretical
 Physics at the Tata Institute of Fundamental Research, Mumbai.
