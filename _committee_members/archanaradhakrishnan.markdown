@@ -2,7 +2,7 @@
 name: Archana Radhakrishnan
 pronouns: she/her
 position: Postdoc at TIFR, India
-headshot: android-chrome-512x512.png
+headshot: archanaradhakrishnan.webp
 email: arcradhakrishnan07@gmail.com
 joined: 2025-10-20
 ---

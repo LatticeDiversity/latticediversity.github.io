@@ -2,7 +2,7 @@
 name: Octavio Vega
 pronouns: he/him
 position: PhD Student at UIUC, USA
-headshot: android-chrome-512x512.png
+headshot: octaviovega.webp
 email: octavio5@illinois.edu
 joined: 2025-10-20
 ---
