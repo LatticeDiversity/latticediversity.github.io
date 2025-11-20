@@ -1,5 +1,6 @@
 ---
 name: Finn M. Stokes
+role: Chair
 pronouns: they/them
 position: Postdoc at UofA, Australia
 headshot: finnstokes.webp
