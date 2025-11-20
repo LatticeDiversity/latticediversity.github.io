@@ -13,4 +13,6 @@ congenital hearing loss, he has worn hearing aids since childhood and
 occasionally faces communication difficulties. As a member of the LDIC, he aims
 to support not only those with visible disabilities but also individuals with
 hidden physical challenges, helping to make academic activities more accessible
-and inclusive for everyone.
+and inclusive for everyone. —
+[Website](https://www-het.ph.tsukuba.ac.jp/~benchoi/) |
+[Mirror](https://saintbenjamin.github.io/)
