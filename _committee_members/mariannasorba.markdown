@@ -2,7 +2,7 @@
 name: Marianna Sorba
 pronouns: she/her
 position: Postdoc at ETH Zurich, Switzerland
-headshot: android-chrome-512x512.png
+headshot: mariannasorba.webp
 email: marianna.sorba@hotmail.it
 joined: 2025-10-20
 ---
