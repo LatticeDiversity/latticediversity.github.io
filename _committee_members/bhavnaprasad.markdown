@@ -6,7 +6,7 @@ headshot: bhavnaprasad.webp
 email: b.prasad@cyi.ac.cy
 joined: 2025-10-20
 ---
-Bhavna is a Ph.D. student at The Cyprus Institute whose path in lattice QCD has
+Bhavna is a PhD student at The Cyprus Institute whose path in lattice QCD has
 been shaped by strong mentorship and a supportive research environment that
 helped her grow from a shy student into a confident researcher. Her experiences
 have shown her how inclusion fosters both individual development and scientific
