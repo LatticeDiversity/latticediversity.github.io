@@ -6,7 +6,7 @@ headshot: octaviovega.webp
 email: octavio5@illinois.edu
 joined: 2025-10-20
 ---
-Octavio is a Ph.D. student at the University of Illinois Urbana–Champaign
+Octavio is a PhD student at the University of Illinois Urbana–Champaign
 whose academic path has been shaped by the support and mentorship he found
 within the lattice field theory community. Motivated by a desire to expand
 participation in LQFT, he hopes to bring younger perspectives to the LDIC and
