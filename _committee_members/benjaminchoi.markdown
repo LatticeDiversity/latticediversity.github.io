@@ -1,7 +1,7 @@
 ---
-name: Benjamin Jaedon ``Benji'' Choi
+name: Benjamin Jaedon Choi
 pronouns: he/him
-position: Postdoc at CCS, Uni.~Tsukuba, Japan
+position: Postdoc at CCS, Uni. Tsukuba, Japan
 headshot: benjaminchoi.webp
 email: benchoi@het.ph.tsukuba.ac.jp
 joined: 2025-10-20
