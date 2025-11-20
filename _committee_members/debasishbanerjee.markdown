@@ -6,7 +6,7 @@ headshot: debasishbanerjee.webp
 email: D.Banerjee@soton.ac.uk
 joined: 2025-10-20
 ---
-Debasish is a faculty member at the University of Southampton and is committed
+Debasish is currently an associate professor at the University of Southampton and is committed
 to fostering equity, diversity, and inclusion across the global lattice
 community. Having lived and worked in India and Western Europe, he remains
 particularly attentive to the challenges faced by underrepresented
