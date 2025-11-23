@@ -1,9 +1,9 @@
 ---
 name: Sofie Martins
 pronouns: she/her
-position: PhD student at Uni. of Southern Denmark
+position: Postdoc at Uni. Graz
 headshot: sofiemartins.webp
-email: martinss@imada.sdu.dk
+email: sofie.martins@uni-graz.at
 joined: 2022-09-15
 left: 2025-11-08
 ---
