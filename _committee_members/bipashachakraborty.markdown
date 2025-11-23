@@ -2,7 +2,7 @@
 name: Bipasha Chakraborty
 role: Chair
 pronouns: she/her
-position: Lecturer at Uni. Southampton, UK
+position: Assoc. Professor at Uni. Southampton, UK
 headshot: bipashachakraborty.webp
 email: B.Chakraborty@soton.ac.uk
 joined: 2022-10-01
