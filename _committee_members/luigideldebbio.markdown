@@ -1,7 +1,7 @@
 ---
 name: Luigi Del Debbio
 pronouns: he/him
-position: Professor at Uni. of Edinburgh, Scotland
+position: Professor at Uni. Edinburgh, Scotland, UK
 headshot: luigideldebbio.webp
 email: luigi.del.debbio@ed.ac.uk
 joined: 2019-01-11
