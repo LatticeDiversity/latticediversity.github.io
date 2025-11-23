@@ -1,7 +1,7 @@
 ---
 name: Sofie Martins
 pronouns: she/her
-position: Postdoc at Uni. Graz
+position: Postdoc at Uni. Graz, Austria
 headshot: sofiemartins.webp
 email: sofie.martins@uni-graz.at
 joined: 2022-09-15
