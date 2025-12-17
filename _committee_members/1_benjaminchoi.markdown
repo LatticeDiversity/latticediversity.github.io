@@ -1,5 +1,6 @@
 ---
 name: Benjamin Jaedon Choi
+role: Co-chair
 pronouns: he/him
 position: Postdoc at CCS, Uni. Tsukuba, Japan
 headshot: benjaminchoi.webp
