@@ -6,8 +6,9 @@ headshot: bhavnaprasad.webp
 email: prasadbh@uni-mainz.de
 joined: 2025-10-20
 ---
-Bhavna is a postdoc at the Helmholtz Institute Mainz whose path in lattice QCD has been shaped by strong mentorship and a supportive research environment that helped her grow from a shy student into a confident researcher.
-Her experiences
+Bhavna is a postdoc at the Helmholtz Institute Mainz whose path in lattice QCD 
+has been shaped by strong mentorship and a supportive research environment 
+that helped her grow from a shy student into a confident researcher. Her experiences
 have shown her how inclusion fosters both individual development and scientific
 progress, and they motivate her desire to support others—especially those who
 may feel alienated or unheard. Bhavna has been active in outreach and community
