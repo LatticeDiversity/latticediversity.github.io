@@ -1,7 +1,7 @@
 ---
 name: Bhavna Prasad
 pronouns: she/her
-position: Postdoc at the The Helmholtz Institute Mainz
+position: Postdoc at the Helmholtz Institute Mainz
 headshot: bhavnaprasad.webp
 email: prasadbh@uni-mainz.de
 joined: 2025-10-20
